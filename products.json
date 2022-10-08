@@ -1,0 +1,14 @@
+[{
+  "title": "200L Aquarium",
+  "id": "200l_aquarium",
+  "description": "A basic 200L Aquarium",
+  "price": "200.00",
+  "image": "/images/200.jpg"
+},
+{
+  "title": "500L Aquarium",
+  "id": "500l_aquarium",
+  "description": "A basic 500L Aquarium",
+  "price": "500.00",
+  "image": "/images/500.jpg"  
+}]
